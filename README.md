@@ -1,9 +1,6 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**GuilhermeNL01/GuilhermeNL01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+My name is Guilherme and...
 
 - 🔭 I’m currently on Apple Developer Academy UCB
 - 🌱 I’m currently learning Swift, Java and C 
@@ -15,4 +12,4 @@ Here are some ideas to get you started:
 
 
 
--->
+
