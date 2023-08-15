@@ -1,6 +1,6 @@
-# GuilhermeNL01's Repository 👋
+# GuilhermeNL01
 
-Welcome to my GitHub repository! My name is Guilherme, and here's a bit about me:
+Welcome to my GitHub! My name is Guilherme, and here's a bit about me:
 
 ## About Me
 
