@@ -9,7 +9,6 @@ Welcome to my GitHub! My name is Guilherme, and here's a bit about me:
 - 🌱 I’m currently learning Swift, Java, and C to expand my coding horizons.
 - 💬 Feel free to ask me about my repositories and the exciting projects I'm working on.
 - 📫 You can reach me on [Instagram](https://www.instagram.com/guilherme_nlobo/) to connect and share our coding journeys!
-- ⚡ Fun fact: Did you know that in Dark Souls 3, Champion Gundyr is the past version of Iudex Gundyr? Fascinating gaming trivia!
 
 ## Repositories
 
