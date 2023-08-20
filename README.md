@@ -47,9 +47,7 @@
 
 <h3 align="left">🔥 My Stats</h3>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=GuilhermeNL01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Streak Graph"  />
-</div>
+![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeNL01&show_icons=true&theme=radical)
 
 ---
 
