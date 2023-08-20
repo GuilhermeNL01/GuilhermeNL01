@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://giphy.com/stickers/gear-5-musan-pro-t1j3KW8BXTzccCLdNb"  />
+  <img height="150" src="(https://giphy.com/stickers/gear-5-musan-pro-t1j3KW8BXTzccCLdNb)"  />
 </div>
 
 ---
