@@ -21,13 +21,14 @@
 
 ###
 
-<p align="left">
-- 🎓 I'm currently a Computer Science student at Universidade Católica de Brasília (UCB).
-- 🔭 I’m also enrolled in the Apple Developer Academy at UCB, where I'm diving into the world of app development.
-- 🌱 I’m currently learning Swift, Java, and C to expand my coding horizons.
-- 💬 Feel free to ask me about my repositories and the exciting projects I'm working on.
-- 📫 You can reach me on [Instagram](https://www.instagram.com/guilherme_nlobo/) to connect and share our coding journeys!
-</p>
+
+<ul align="left">
+  <li>🎓 I'm currently a Computer Science student at Universidade Católica de Brasília (UCB).</li>
+  <li>🔭 I’m also enrolled in the Apple Developer Academy at UCB, where I'm diving into the world of app development.</li>
+  <li>🌱 I’m currently learning Swift, Java, and C to expand my coding horizons.</li>
+  <li>💬 Feel free to ask me about my repositories and the exciting projects I'm working on.</li>
+  <li>- 📫 You can reach me on [Instagram](https://www.instagram.com/guilherme_nlobo/) to connect and share our coding journeys!</li>
+</ul>
 
 ###
 
@@ -36,15 +37,15 @@
 ###
 
 <div align="left">
-  <img src="(https://github.com/devicons/devicon/blob/v2.15.1/icons/xcode/xcode-original.svg)" height="40" alt="Xcode"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/xcode/xcode-original.svg" height="40" alt="Xcode"  />
   <img width="12" />
-   <img src="(https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg#L1)" height="40" alt="figma"  />
+   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg#L1" height="40" alt="figma"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg#L1" height="40" alt="Vscode"  />
   <img width="12" />
-  <img src="(https://github.com/devicons/devicon/blob/v2.15.1/icons/swift/swift-original.svg)" height="40" alt="Swift"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/swift/swift-original.svg" height="40" alt="Swift"  />
   <img width="12" />
-  <img src="(https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg)" height="40" alt="C"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" height="40" alt="C"  />
   <img width="12" />
  
 </div>
