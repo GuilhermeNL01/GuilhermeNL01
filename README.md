@@ -53,11 +53,6 @@
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/GuilhermeNL01">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNL01&layout=compact&theme=dracula" alt="Top Languages" />
-  </a>
-</div>
 ---
 
 <h3 align="left">🚀 Thank you for visiting my repository. Happy coding!</h3>
