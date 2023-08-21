@@ -39,7 +39,7 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/swift/swift-original.svg" height="40" alt="Swift"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" height="40" alt="C"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg"<a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170">C</a> height="40" alt="C"  />
   <img width="12" />
 </p>
 
