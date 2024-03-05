@@ -44,6 +44,7 @@
 ---
 
 <h3 align="left">🔥 My Stats</h3>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNL01&theme=tokyonight)
 
 <div align="center">
   <a href="https://github.com/GuilhermeNL01">
@@ -55,5 +56,4 @@
 
 <h3 align="left">🚀 Thank you for visiting my repository. Happy coding!</h3>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
 
