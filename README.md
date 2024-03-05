@@ -50,14 +50,12 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeNL01&show_icons=true&theme=dracula" alt="Guilherme's GitHub Stats" />
   </a>
 </div>
-<h3 align="left">🔥 Most Used Languages</h3>
-
 <div align="center">
   <a href="https://github.com/GuilhermeNL01">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNL01&layout=compact&theme=dracula" alt="Guilherme's Most Used Languages" />
   </a>
 </div>
----
+
 
 <h3 align="left">🚀 Thank you for visiting my repository. Happy coding!</h3>
 
