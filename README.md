@@ -43,7 +43,7 @@
 
 ---
 
-<h3 align="center">🔥 My Stats</h3>
+<h3 align="left">🔥 My Stats</h3>
 
 <div>
   <a href="https://github.com/GuilhermeNL01">
@@ -51,7 +51,7 @@
   </a>
 
   <a href="https://github.com/GuilhermeNL01">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNL01&layout=compact&theme=dracula" alt="Guilherme's Most Used Languages" />
+    <img align="leading" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNL01&layout=compact&theme=dracula" alt="Guilherme's Most Used Languages" />
   </a>
 </div>
 
