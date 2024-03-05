@@ -45,16 +45,17 @@
 
 <h3 align="left">🔥 My Stats</h3>
 
-<div>
+<div align="center">
   <a href="https://github.com/GuilhermeNL01">
-    <img  src="https://github-readme-stats.vercel.app/api?username=GuilhermeNL01&show_icons=true&theme=dracula" alt="Guilherme's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeNL01&show_icons=true&theme=dracula" alt="Guilherme's GitHub Stats" />
   </a>
-
+</div>
+<div align="center">
   <a href="https://github.com/GuilhermeNL01">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNL01&layout=compact&theme=dracula" alt="Guilherme's Most Used Languages" />
+    <img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNL01&theme=dracula)" alt="Guilherme's GitHub Stats" />
   </a>
 </div>
 
+---
+
 <h3 align="left">🚀 Thank you for visiting my repository. Happy coding!</h3>
-
-
