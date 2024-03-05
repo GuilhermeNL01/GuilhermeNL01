@@ -54,3 +54,6 @@
 ---
 
 <h3 align="left">🚀 Thank you for visiting my repository. Happy coding!</h3>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+
