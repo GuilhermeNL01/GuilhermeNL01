@@ -47,11 +47,11 @@
 
 <div>
   <a href="https://github.com/GuilhermeNL01">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeNL01&show_icons=true&theme=dracula" alt="Guilherme's GitHub Stats" />
+    <img  src="https://github-readme-stats.vercel.app/api?username=GuilhermeNL01&show_icons=true&theme=dracula" alt="Guilherme's GitHub Stats" />
   </a>
 
   <a href="https://github.com/GuilhermeNL01">
-    <img align="leading" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNL01&layout=compact&theme=dracula" alt="Guilherme's Most Used Languages" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNL01&layout=compact&theme=dracula" alt="Guilherme's Most Used Languages" />
   </a>
 </div>
 
