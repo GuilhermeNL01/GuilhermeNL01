@@ -45,7 +45,7 @@
 
 <h3 align="left">🔥 My Stats</h3>
 
-<div style="display: flex; justify-content: space-between;">
+<div>
   <a href="https://github.com/GuilhermeNL01">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeNL01&show_icons=true&theme=dracula" alt="Guilherme's GitHub Stats" />
   </a>
