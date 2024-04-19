@@ -19,7 +19,7 @@
   <br>
   🔭 Enrolled in the Apple Developer Academy at UCB, diving into app development.
   <br>
-  🌱 Learning Swift, Java, and C to expand my coding horizons.
+  🌱 Learning Swift, Python and Javascript to expand my coding horizons.
   <br>
   💬 Feel free to ask me about my repositories and exciting projects.
   <br>
@@ -33,13 +33,15 @@
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/xcode/xcode-original.svg" height="40" alt="Xcode"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg#L1" height="40" alt="Figma"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/swift/swift-original.svg" height="40" alt="Swift"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg#L1" height="40" alt="VS Code"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/swift/swift-original.svg" height="40" alt="Swift"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" height="40" alt="Python"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" height="40" alt="C"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" height="40" alt="Javascript"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg#L1" height="40" alt="Figma"  />
   <img width="12" />
 </p>
 
