@@ -1,10 +1,9 @@
+
+
 <div align="center">
-  <img height="150" src="https://media2.giphy.com/media/t1j3KW8BXTzccCLdNb/giphy.gif?cid=ecf05e47s1fdt75olpyn7s6vx4g2705idws7qbecc32spr8j&ep=v1_stickers_search&rid=giphy.gif&ct=s"  />
-    <img height="150" src="https://giffiles.alphacoders.com/146/14621.gif"  />
-
+  <img height="150" src="https://media2.giphy.com/media/t1j3KW8BXTzccCLdNb/giphy.gif?cid=ecf05e47s1fdt75olpyn7s6vx4g2705idws7qbecc32spr8j&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Coding GIF" />
+  <img height="150" src="https://giffiles.alphacoders.com/146/14621.gif" alt="Coding GIF" />
 </div>
-
-
 
 ---
 
@@ -15,15 +14,15 @@
 <h3 align="left">👨🏻‍💻 About Me</h3>
 
 <p align="left">
-  🎓 I'm a Computer Science student at Universidade Católica de Brasília (UCB).
+  🎓 I'm a Computer Science student at <strong>Universidade Católica de Brasília (UCB)</strong>.
   <br>
-  🔭 Enrolled in the Apple Developer Academy at UCB, diving into app development.
+  🔭 Currently enrolled in the <strong>Apple Developer Academy</strong> at UCB, diving into app development.
   <br>
-  🌱 Learning Swift, Python and Javascript to expand my coding horizons.
+  🌱 Passionate about expanding my coding horizons with <strong>Swift, Python, and JavaScript</strong>.
   <br>
   💬 Feel free to ask me about my repositories and exciting projects.
   <br>
-  📫 You can reach me on <a href="https://www.instagram.com/guilherme_nlobo/">Instagram</a> to connect and share our coding journeys!
+  📫 Connect with me on <a href="https://www.instagram.com/guilherme_nlobo/">Instagram</a> to share our coding journeys!
 </p>
 
 ---
@@ -31,18 +30,17 @@
 <h3 align="left">🛠 Languages and Tools</h3>
 
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/xcode/xcode-original.svg" height="40" alt="Xcode"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/xcode/xcode-original.svg" height="40" alt="Xcode" />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/swift/swift-original.svg" height="40" alt="Swift"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/swift/swift-original.svg" height="40" alt="Swift" />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg#L1" height="40" alt="VS Code"  />
+  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" height="40" alt="Python"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" height="40" alt="Javascript"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg#L1" height="40" alt="Figma"  />
-  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" height="40" alt="Figma" />
 </p>
 
 ---
@@ -55,7 +53,8 @@
   </a>
 </div>
 
-
 ---
 
-<h3 align="left">🚀 Thank you for visiting my Profile Happy coding!</h3>
+<h3 align="left">🚀 Thank you for visiting my Profile! Happy coding!</h3>
+
+---
