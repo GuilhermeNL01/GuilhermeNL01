@@ -20,7 +20,7 @@
   <br>
   💬 Feel free to ask me about my repositories and exciting projects.
   <br>
-  📫 Connect with me on <a href="https://www.instagram.com/guilherme_nlobo/">Instagram</a> to share our coding journeys!
+  📫 Connect with me on <a href="https://www.linkedin.com/in/guilherme-nunes-lobo-12967b258/">LinkedIn</a> to share our coding journeys!
 </p>
 
 ---
