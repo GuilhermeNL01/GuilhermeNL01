@@ -1,10 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media2.giphy.com/media/t1j3KW8BXTzccCLdNb/giphy.gif?cid=ecf05e47s1fdt75olpyn7s6vx4g2705idws7qbecc32spr8j&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Coding GIF" />
-  <img height="150" src="https://giffiles.alphacoders.com/146/14621.gif" alt="Coding GIF" />
-</div>
-
----
-
 <h1 align="center">👋 Bem-vindo ao meu GitHub! Meu nome é Guilherme.</h1>
 
 ---
@@ -16,9 +9,9 @@
   <br>
   🔭 Atualmente, estou matriculado na <strong>Apple Developer Academy</strong> da UCB, me aprofundando no desenvolvimento de aplicativos.
   <br>
-  🌱 Estou sempre em busca de expandir meus conhecimentos em <strong>Swift</strong> e <strong>Xcode</strong>.
+  🌱 Estou sempre em busca de expandir meus conhecimentos em <strong>Swift</strong>, <strong>Xcode</strong>, e <strong>CreateML/CoreML</strong>.
   <br>
-  💬 Sinta-se à vontade para perguntar sobre meus repositórios e projetos emocionantes.
+  💬 Sinta-se à vontade para perguntar sobre meus repositórios e projetos.
   <br>
   📫 Conecte-se comigo no <a href="https://www.linkedin.com/in/guilherme-nunes-lobo-12967b258/">LinkedIn</a> para compartilharmos nossas jornadas de codificação!
 </p>
@@ -32,7 +25,9 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/swift/swift-original.svg" height="40" alt="Swift" />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/coreml/coreml-original.svg" height="40" alt="CoreML" />
 </p>
 
 ---
@@ -64,7 +59,3 @@
 ---
 
 <h3 align="left">🚀 Obrigado por visitar meu perfil! Boa codificação!</h3>
-
---- 
-
-Essa versão foca nas suas habilidades relevantes e apresenta suas informações de forma clara e profissional. Se precisar de mais ajustes, é só avisar!
