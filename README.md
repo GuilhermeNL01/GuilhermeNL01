@@ -43,6 +43,22 @@
 
 ---
 
+<h3 align="left">📂 Featured Repositories</h3>
+
+<div align="center">
+  <a href="https://github.com/GuilhermeNL01/MiniChallenge05">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeNL01&repo=MiniChallenge05&theme=dracula" alt="MiniChallenge05 Repository" />
+  </a>
+  <a href="https://github.com/GuilhermeNL01/NanoChallenge05">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeNL01&repo=NanoChallenge05&theme=dracula" alt="NanoChallenge05 Repository" />
+  </a>
+  <a href="https://github.com/GuilhermeNL01/Card-Collection">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeNL01&repo=Card-Collection&theme=dracula" alt="Card-Collection Repository" />
+  </a>
+</div>
+
+---
+
 <h3 align="left">🔥 My Stats</h3>
 
 <div align="center">
