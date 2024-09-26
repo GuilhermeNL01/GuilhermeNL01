@@ -27,7 +27,6 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" height="40" alt="Figma" />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/coreml/coreml-original.svg" height="40" alt="CoreML" />
 </p>
 
 ---
