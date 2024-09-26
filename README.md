@@ -27,6 +27,13 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" height="40" alt="Figma" />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" height="40" alt="Git" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/trello/trello-plain.svg" height="40" alt="Trello" />
 </p>
 
 ---
