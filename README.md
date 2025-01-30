@@ -7,8 +7,6 @@
 <p align="left">
   🎓 Sou estudante de Ciência da Computação na <strong>Universidade Católica de Brasília (UCB)</strong>.
   <br>
-  🔭 Atualmente, estou matriculado na <strong>Apple Developer Academy</strong> da UCB, me aprofundando no desenvolvimento de aplicativos.
-  <br>
   🌱 Estou sempre em busca de expandir meus conhecimentos em <strong>Swift</strong>, <strong>Xcode</strong>, e <strong>CreateML/CoreML</strong>.
   <br>
   💬 Sinta-se à vontade para perguntar sobre meus repositórios e projetos.
