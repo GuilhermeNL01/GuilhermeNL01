@@ -1,65 +1,51 @@
-<h1 align="center">👋 Bem-vindo ao meu GitHub! Meu nome é Guilherme.</h1>
+# 👋 Olá, eu sou o Guilherme
+
+💻 **Desenvolvedor iOS & Web**  
+🎓 Estudante de **Ciência da Computação** na [Universidade Católica de Brasília (UCB)](https://www.ucb.br)  
+🚀 Apaixonado por criar apps intuitivos, experiências digitais impactantes e explorar novas tecnologias  
 
 ---
 
-<h3 align="left">👨🏻‍💻 Sobre Mim</h3>
+## 🛠 Stack
 
-<p align="left">
-  🎓 Sou estudante de Ciência da Computação na <strong>Universidade Católica de Brasília (UCB)</strong>.
-  <br>
-  🌱 Estou sempre em busca de expandir meus conhecimentos em <strong>Swift</strong>, <strong>Xcode</strong>, e <strong>CreateML/CoreML</strong>.
-  <br>
-  💬 Sinta-se à vontade para perguntar sobre meus repositórios e projetos.
-  <br>
-  📫 Conecte-se comigo no <a href="https://www.linkedin.com/in/guilherme-nunes-lobo-12967b258/">LinkedIn</a> para compartilharmos nossas jornadas de codificação!
-</p>
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
----
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white)  
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007ACC?style=for-the-badge&logo=swift&logoColor=white)  
+![CoreML](https://img.shields.io/badge/CoreML-555555?style=for-the-badge&logo=apple&logoColor=white)  
+![CreateML](https://img.shields.io/badge/CreateML-555555?style=for-the-badge&logo=apple&logoColor=white)  
 
-<h3 align="left">🛠 Tecnologias e Ferramentas</h3>
-
-<p align="left">
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/xcode/xcode-original.svg" height="40" alt="Xcode" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/swift/swift-original.svg" height="40" alt="Swift" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" height="40" alt="Figma" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/trello/trello-plain.svg" height="40" alt="Trello" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)  
 
 ---
 
-<h3 align="left">📂 Repositórios em Destaque</h3>
+## ⚡ Projetos em Destaque
+
+| Projeto | Descrição | Link |
+|---------|-----------|------|
+| MiniChallenge05 | App iOS com SwiftUI explorando funcionalidades do UIKit e CoreML | [GitHub](https://github.com/GuilhermeNL01/MiniChallenge05) |
+| NanoChallenge05 | Projeto experimental em Swift e ARKit | [GitHub](https://github.com/GuilhermeNL01/NanoChallenge05) |
+| Card-Collection | App de colecionáveis com persistência de dados e UI customizada | [GitHub](https://github.com/GuilhermeNL01/Card-Collection) |
+
+---
+
+## 📊 GitHub Stats
+
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeNL01&show_icons=true&theme=dracula)  
+
+---
+
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/guilherme-nunes-lobo-12967b258/)  
+- [E-mail](mailto:loboguilherme2003@gmail.com)  
+
+---
 
 <div align="center">
-  <a href="https://github.com/GuilhermeNL01/MiniChallenge05">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeNL01&repo=MiniChallenge05&theme=dracula" alt="Repositório MiniChallenge05" />
-  </a>
-  <a href="https://github.com/GuilhermeNL01/NanoChallenge05">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeNL01&repo=NanoChallenge05&theme=dracula" alt="Repositório NanoChallenge05" />
-  </a>
-  <a href="https://github.com/GuilhermeNL01/Card-Collection">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeNL01&repo=Card-Collection&theme=dracula" alt="Repositório Card-Collection" />
-  </a>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" />
 </div>
-
----
-
-<h3 align="left">🔥 Minhas Estatísticas</h3>
-
-<div align="center">
-  <a href="https://github.com/GuilhermeNL01">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeNL01&show_icons=true&theme=dracula" alt="Estatísticas do GitHub do Guilherme" />
-  </a>
-</div>
-
----
-
-<h3 align="left">🚀 Obrigado por visitar meu perfil! Boa codificação!</h3>
