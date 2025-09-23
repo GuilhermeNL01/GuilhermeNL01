@@ -1,25 +1,36 @@
 # 👋 Olá, eu sou o Guilherme
 
 💻 **Desenvolvedor iOS & Web**  
-🎓 Estudante de **Ciência da Computação** na [Universidade Católica de Brasília (UCB)](https://www.ucb.br)  
+🎓 Estudante de **Ciência da Computação** na [Universidade Católica de Brasília (UCB)](https://ucb.catolica.edu.br)  
 🚀 Apaixonado por criar apps intuitivos, experiências digitais impactantes e explorar novas tecnologias  
 
 ---
 
 ## 🛠 Stack
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+### Horizontal
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="50" height="50"/>
+</p>
 
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white)  
-![SwiftUI](https://img.shields.io/badge/SwiftUI-007ACC?style=for-the-badge&logo=swift&logoColor=white)  
-![CoreML](https://img.shields.io/badge/CoreML-555555?style=for-the-badge&logo=apple&logoColor=white)  
-![CreateML](https://img.shields.io/badge/CreateML-555555?style=for-the-badge&logo=apple&logoColor=white)  
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)  
+### Vertical
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="50" height="50"/><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="50" height="50"/><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="50" height="50"/><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="50" height="50"/>
+</p>
 
 ---
 
@@ -27,9 +38,9 @@
 
 | Projeto | Descrição | Link |
 |---------|-----------|------|
-| MiniChallenge05 | App iOS com SwiftUI explorando funcionalidades do UIKit e CoreML | [GitHub](https://github.com/GuilhermeNL01/MiniChallenge05) |
-| NanoChallenge05 | Projeto experimental em Swift e ARKit | [GitHub](https://github.com/GuilhermeNL01/NanoChallenge05) |
-| Card-Collection | App de colecionáveis com persistência de dados e UI customizada | [GitHub](https://github.com/GuilhermeNL01/Card-Collection) |
+| MiniChallenge05 | App iOS com SwiftUI explorando funcionalidades do UIKit  | [GitHub](https://github.com/GuilhermeNL01/MiniChallenge05) |
+| NanoChallenge05 | Projeto para Apple Watch em Swift | [GitHub](https://github.com/GuilhermeNL01/NanoChallenge05) |
+| Card-Collection | App com persistência de dados e UI customizada | [GitHub](https://github.com/GuilhermeNL01/Card-Collection) |
 
 ---
 
@@ -47,5 +58,5 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" />
+  <img src="[https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif](https://giphy.com/stickers/pixel-pokemon-pokmon-HPo8fZLSQwVsqOP3SO)" width="300" />
 </div>
