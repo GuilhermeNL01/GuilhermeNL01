@@ -29,15 +29,25 @@
 
 ## 📊 GitHub Stats
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeNL01&show_icons=true&theme=dracula)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNL01&layout=compact&theme=dracula)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeNL01&show_icons=true&theme=dracula" />
+</div>
 
 
 ## 📫 Connect
 
-- [LinkedIn](https://www.linkedin.com/in/guilherme-nunes-lobo-12967b258/)  
-- [Email](mailto:loboguilherme2003@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/guilherme-nunes-lobo-12967b258/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:loboguilherme2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+
+## 🔭 Now
+
 
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFkMWVqMXhiZnhoMHk0MDBhMDRnbzh6c3Vka2t5bHZkc2FrcnNlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HPo8fZLSQwVsqOP3SO/giphy.gif" width="300" />
