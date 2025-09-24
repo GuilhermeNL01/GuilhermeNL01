@@ -1,11 +1,11 @@
-# 👋 Olá, eu sou o Guilherme
+# 👋 Hi, I’m Guilherme
 
-💻 **Desenvolvedor iOS & Web**  
-🎓 Estudante de **Ciência da Computação** na [Universidade Católica de Brasília (UCB)](https://ucb.catolica.edu.br)  
-🚀 Apaixonado por criar apps intuitivos, experiências digitais impactantes e explorar novas tecnologias  
+💻 **iOS & Web Developer**  
+🎓 B.Sc. in **Computer Science** student at [Universidade Católica de Brasília (UCB)](https://ucb.catolica.edu.br)  
+🚀 I build intuitive apps, craft impactful digital experiences, and love exploring new technologies.
 
 
-## 🛠 Stack
+## 🛠 Tech Stack
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
@@ -18,24 +18,26 @@
 </p>
 
 
-## ⚡ Projetos em Destaque
+## ⚡ Featured Projects
 
-| Projeto | Descrição | Link |
-|---------|-----------|------|
-| MiniChallenge05 | App iOS com SwiftUI explorando funcionalidades do UIKit  | [GitHub](https://github.com/GuilhermeNL01/MiniChallenge05) |
-| NanoChallenge05 | Projeto para Apple Watch em Swift | [GitHub](https://github.com/GuilhermeNL01/NanoChallenge05) |
-| Card-Collection | App com persistência de dados e UI customizada | [GitHub](https://github.com/GuilhermeNL01/Card-Collection) |
+| Project | Description | Link |
+|--------|-------------|------|
+| MiniChallenge05 | iOS app using SwiftUI integrating UIKit components | [GitHub](https://github.com/GuilhermeNL01/MiniChallenge05) |
+| NanoChallenge05 | Apple Watch project built with Swift | [GitHub](https://github.com/GuilhermeNL01/NanoChallenge05) |
+| Card-Collection | iOS app with data persistence and custom UI | [GitHub](https://github.com/GuilhermeNL01/Card-Collection) |
 
 
 ## 📊 GitHub Stats
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeNL01&show_icons=true&theme=dracula)  
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeNL01&show_icons=true&theme=dracula)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNL01&layout=compact&theme=dracula)
 
 
-## 📫 Contato
+## 📫 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/guilherme-nunes-lobo-12967b258/)  
-- [E-mail](mailto:loboguilherme2003@gmail.com)  
+- [Email](mailto:loboguilherme2003@gmail.com)
 
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFkMWVqMXhiZnhoMHk0MDBhMDRnbzh6c3Vka2t5bHZkc2FrcnNlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HPo8fZLSQwVsqOP3SO/giphy.gif" width="300" />
