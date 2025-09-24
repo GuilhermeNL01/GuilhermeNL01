@@ -45,10 +45,6 @@
   </a>
 </p>
 
-
-## 🔭 Now
-
-
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFkMWVqMXhiZnhoMHk0MDBhMDRnbzh6c3Vka2t5bHZkc2FrcnNlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HPo8fZLSQwVsqOP3SO/giphy.gif" width="300" />
 </div>
