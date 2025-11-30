@@ -27,12 +27,6 @@
 | Card-Collection | iOS app with data persistence and custom UI | [GitHub](https://github.com/GuilhermeNL01/Card-Collection) |
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeNL01&show_icons=true&theme=dracula" />
-</div>
-
 
 ## 📫 Connect
 
