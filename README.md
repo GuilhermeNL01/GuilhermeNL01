@@ -1,48 +1,65 @@
 # Guilherme Nunes Lobo
 
-**iOS & Web Developer** · B.Sc. Computer Science — Universidade Católica de Brasília
+Software Developer focused on building clean, scalable applications and intuitive user experiences. Background in iOS development with Swift, currently expanding into full-stack and general software engineering.
 
----
+## About Me
 
-## About
+- iOS Developer with experience in SwiftUI and UIKit  
+- Background from Apple Developer Academy (2 years)  
+- Experience with agile development and real-world projects  
+- Currently transitioning to broader software engineering roles  
 
-I'm a Computer Science student focused on iOS development, building native apps with Swift and SwiftUI. I enjoy solving real-world problems through intuitive interfaces and clean architecture, and I'm always looking to learn new tools across the Apple ecosystem and beyond.
+## Tech Stack
 
----
+**Mobile**
+- Swift
+- SwiftUI
+- UIKit
 
-## Technical Skills
+**Frontend**
+- React
+- JavaScript / TypeScript
+- HTML / CSS
 
-| Platform | Languages | Tools & Frameworks |
-|----------|-----------|-------------------|
-| iOS / watchOS | Swift, Python, JavaScript | SwiftUI, UIKit |
-| Apple Ecosystem | — | Xcode, Git |
-| Project Management | — | GitHub, Trello |
+**Backend (learning / working)**
+- Java
+- Spring Boot
 
----
+**Tools & Practices**
+- Git & GitHub
+- REST APIs
+- MVC / MVVM
+- Agile methodologies
 
-## Featured Projects
+## Projects
 
-### Card Collection
-An iOS app for managing Magic: The Gathering collections. Features a comprehensive card database search, custom library organization, and persistent local storage — built with SwiftUI and native data persistence APIs.
+### Featured Projects
 
-[View Repository](https://github.com/GuilhermeNL01/Card-Collection)
+- **iOS Apps**
+  - Focus on performance, UI/UX, and Apple ecosystem integration
 
----
+- **Web Projects**
+  - Responsive interfaces and modern frontend practices
 
-### MiniChallenge05
-An iOS application that demonstrates SwiftUI and UIKit integration, showcasing how both frameworks can work together in a unified project.
+- **Experiments & Studies**
+  - Exploring backend systems and scalable architectures
 
-[View Repository](https://github.com/GuilhermeNL01/MiniChallenge05)
 
----
+## Goals
 
-### NanoChallenge05
-An Apple Watch app built with Swift, exploring the watchOS platform and developing experiences tailored to the WatchKit framework.
-
-[View Repository](https://github.com/GuilhermeNL01/NanoChallenge05)
-
----
+- Transition into a full software engineering role  
+- Build scalable backend systems  
+- Contribute to impactful products  
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/guilherme-nunes-lobo-12967b258/) · [loboguilherme2003@gmail.com](mailto:loboguilherme2003@gmail.com)
+- Email: loboguilherme2003@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/guilherme-nunes-lobo-12967b258/ 
+
+---
+
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeNL01&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNL01&layout=compact)
