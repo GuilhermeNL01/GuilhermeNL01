@@ -62,4 +62,3 @@ Software Developer focused on building clean, scalable applications and intuitiv
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeNL01&show_icons=true&theme=dracula)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNL01&layout=compact)
