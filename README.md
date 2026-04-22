@@ -21,10 +21,6 @@ Software Developer focused on building clean, scalable applications and intuitiv
 - JavaScript / TypeScript
 - HTML / CSS
 
-**Backend (learning / working)**
-- Java
-- Spring Boot
-
 **Tools & Practices**
 - Git & GitHub
 - REST APIs
