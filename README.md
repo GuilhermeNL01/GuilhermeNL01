@@ -117,7 +117,6 @@ Universidade Católica de Brasília · Brasília, Brazil
 
 ![Guilherme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeNL01&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNL01&layout=compact&theme=github_dark&hide_border=true&title_color=00ff99)
 
 </div>
 
