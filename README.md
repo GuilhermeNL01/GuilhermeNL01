@@ -4,7 +4,7 @@
 
 ### Software Developer • iOS Developer • Full-Stack Builder
 
-`Brasília, Brazil` · `Computer Science Student` · `C2 English`
+`Brasília, Brazil` · `Computer Science Graduate` · `C2 English`
 
 [![Email](https://img.shields.io/badge/Email-loboguilherme2003%40gmail.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:loboguilherme2003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme%20Nunes%20Lobo-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/guilherme-nunes-lobo-12967b258/)
