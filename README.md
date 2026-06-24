@@ -6,8 +6,8 @@
 
 `Brasília, Brazil` · `Computer Science Student` · `C2 English`
 
-[![Email](https://img.shields.io/badge/Email-loboguilherme2003%40gmail.com-00ff99?style=for-the-badge&logo=gmail&logoColor=white&labelColor=a855f7)](mailto:loboguilherme2003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme%20Nunes%20Lobo-00ff99?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=a855f7)](https://www.linkedin.com/in/guilherme-nunes-lobo-12967b258/)
+[![Email](https://img.shields.io/badge/Email-loboguilherme2003%40gmail.com-00ff99?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8b5cf6)](mailto:loboguilherme2003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme%20Nunes%20Lobo-00ff99?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8b5cf6)](https://www.linkedin.com/in/guilherme-nunes-lobo-12967b258/)
 
 </div>
 
@@ -28,30 +28,30 @@ My work combines product thinking, clean architecture, and hands-on delivery —
 
 ### Frontend & Full Stack
 
-![React](https://img.shields.io/badge/React-a855f7?style=for-the-badge&logo=react&logoColor=00ff99)
-![TypeScript](https://img.shields.io/badge/TypeScript-a855f7?style=for-the-badge&logo=typescript&logoColor=00ff99)
-![JavaScript](https://img.shields.io/badge/JavaScript-a855f7?style=for-the-badge&logo=javascript&logoColor=00ff99)
-![Node.js](https://img.shields.io/badge/Node.js-a855f7?style=for-the-badge&logo=node.js&logoColor=00ff99)
-![Express](https://img.shields.io/badge/Express-a855f7?style=for-the-badge&logo=express&logoColor=00ff99)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-a855f7?style=for-the-badge&logo=postgresql&logoColor=00ff99)
-![Vite](https://img.shields.io/badge/Vite-a855f7?style=for-the-badge&logo=vite&logoColor=00ff99)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-a855f7?style=for-the-badge&logo=tailwind-css&logoColor=00ff99)
+![React](https://img.shields.io/badge/React-8b5cf6?style=for-the-badge&logo=react&logoColor=00ff99)
+![TypeScript](https://img.shields.io/badge/TypeScript-8b5cf6?style=for-the-badge&logo=typescript&logoColor=00ff99)
+![JavaScript](https://img.shields.io/badge/JavaScript-8b5cf6?style=for-the-badge&logo=javascript&logoColor=00ff99)
+![Node.js](https://img.shields.io/badge/Node.js-8b5cf6?style=for-the-badge&logo=node.js&logoColor=00ff99)
+![Express](https://img.shields.io/badge/Express-8b5cf6?style=for-the-badge&logo=express&logoColor=00ff99)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8b5cf6?style=for-the-badge&logo=postgresql&logoColor=00ff99)
+![Vite](https://img.shields.io/badge/Vite-8b5cf6?style=for-the-badge&logo=vite&logoColor=00ff99)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-8b5cf6?style=for-the-badge&logo=tailwind-css&logoColor=00ff99)
 
 ### Apple Platforms
 
-![Swift](https://img.shields.io/badge/Swift-a855f7?style=for-the-badge&logo=swift&logoColor=00ff99)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-a855f7?style=for-the-badge&logo=swift&logoColor=00ff99)
-![UIKit](https://img.shields.io/badge/UIKit-a855f7?style=for-the-badge&logo=apple&logoColor=00ff99)
-![Xcode](https://img.shields.io/badge/Xcode-a855f7?style=for-the-badge&logo=xcode&logoColor=00ff99)
+![Swift](https://img.shields.io/badge/Swift-8b5cf6?style=for-the-badge&logo=swift&logoColor=00ff99)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-8b5cf6?style=for-the-badge&logo=swift&logoColor=00ff99)
+![UIKit](https://img.shields.io/badge/UIKit-8b5cf6?style=for-the-badge&logo=apple&logoColor=00ff99)
+![Xcode](https://img.shields.io/badge/Xcode-8b5cf6?style=for-the-badge&logo=xcode&logoColor=00ff99)
 
 ### Tools & Concepts
 
-![Git](https://img.shields.io/badge/Git-a855f7?style=for-the-badge&logo=git&logoColor=00ff99)
-![GitHub](https://img.shields.io/badge/GitHub-a855f7?style=for-the-badge&logo=github&logoColor=00ff99)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-a855f7?style=for-the-badge&logo=githubactions&logoColor=00ff99)
-![Vercel](https://img.shields.io/badge/Vercel-a855f7?style=for-the-badge&logo=vercel&logoColor=00ff99)
-![Render](https://img.shields.io/badge/Render-a855f7?style=for-the-badge&logo=render&logoColor=00ff99)
-![Neon](https://img.shields.io/badge/Neon-a855f7?style=for-the-badge&logo=neon&logoColor=00ff99)
+![Git](https://img.shields.io/badge/Git-8b5cf6?style=for-the-badge&logo=git&logoColor=00ff99)
+![GitHub](https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=00ff99)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-8b5cf6?style=for-the-badge&logo=githubactions&logoColor=00ff99)
+![Vercel](https://img.shields.io/badge/Vercel-8b5cf6?style=for-the-badge&logo=vercel&logoColor=00ff99)
+![Render](https://img.shields.io/badge/Render-8b5cf6?style=for-the-badge&logo=render&logoColor=00ff99)
+![Neon](https://img.shields.io/badge/Neon-8b5cf6?style=for-the-badge&logo=neon&logoColor=00ff99)
 
 `MVC` · `MVVM` · `MVVM-C` · `MVP` · `VIPER` · `Coordinator` · `Clean Architecture` · `Unit Testing` · `REST APIs`
 
