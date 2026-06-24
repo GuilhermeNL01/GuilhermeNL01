@@ -11,11 +11,6 @@
 
 </div>
 
-```txt
-> booting profile...
-> loading software developer portfolio...
-> status: available for opportunities
-```
 
 ## About
 
@@ -120,9 +115,9 @@ Universidade Católica de Brasília · Brasília, Brazil
 
 <div align="center">
 
-![Guilherme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Nunes-Lobo&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99)
+![Guilherme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeNL01&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Nunes-Lobo&layout=compact&theme=github_dark&hide_border=true&title_color=00ff99)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNL01&layout=compact&theme=github_dark&hide_border=true&title_color=00ff99)
 
 </div>
 
